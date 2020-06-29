@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "hexo_demo",
+			"path": ".."
+		},
+		{
+			"name": "public",
+			"path": "..\\public"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hexo_demo"
+	}
+}
